@@ -1,6 +1,6 @@
 # Mint Your Own NFT's
 
-### You can view it's final view here https://gif-web3.vercel.app/
+### You can view it's final view here [NFT Heroes](https://nft-heroes.vercel.app/)
 
 ### Some preview images 👇🏻
 
