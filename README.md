@@ -6,4 +6,4 @@
 
 ### Directly contact me on Twitter https://twitter.com/Param435_/ or on Telegram https://t.me/Param435
 
-### You can also contact me on LinkedIn https://linkedin.com/parampatel4/
+### You can also contact me on LinkedIn https://linkedin.com/in/parampatel4/
