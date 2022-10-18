@@ -1,11 +1,9 @@
-# buildspace Mint Your Own NFT Collection
+# Mint Your Own NFT's
 
-### **Welcome 👋**
-To get started with this course, clone this repo and follow these commands:
 
-1. Run `npm install` at the root of your directory
-2. Run `npm run start` to start the project
-3. Start coding!
+### Feeling interested in buiding some of the world's best WEB3 Projects or DApps(Decentralised Apps) yourselves?
+### Head to https://buildspace.so/
 
-### **Questions?**
-Have some questions make sure you head over to your [buildspace Dashboard](https://app.buildspace.so/courses/CO961ddb5f-f428-4608-9949-a9a2f461eb3f) and link your Discord account so you can get access to helpful channels and your instructor!
+### Directly contact me on Twitter https://twitter.com/Param435_/ or on Telegram https://t.me/Param435
+
+### You can also contact me on LinkedIn https://linkedin.com/parampatel4/
